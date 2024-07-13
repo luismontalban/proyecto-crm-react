@@ -1,0 +1,27 @@
+{
+  "clientes": [
+    {
+      "nombre": "Amaral",
+      "empresa": "Rata",
+      "email": "amaral@correo.com",
+      "telefono": "12344858",
+      "notas": "Amaral hermana",
+      "id": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Teresa",
+      "empresa": "INACAP",
+      "email": "correo@correo.com",
+      "telefono": "569 45657832",
+      "notas": "Hola",
+      "id": 6
+    }
+  ]
+}
